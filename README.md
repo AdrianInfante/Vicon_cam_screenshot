@@ -6,8 +6,6 @@ Instructions
 
 1-Install python (Add the PATH)
 
-2-python get-pip.py
+2-pip install -r requirements.txt
 
-3-pip install -r requirements.txt
-
-4-Run ManchesterCentral.py 
+3-Run ManchesterCentral.py 
